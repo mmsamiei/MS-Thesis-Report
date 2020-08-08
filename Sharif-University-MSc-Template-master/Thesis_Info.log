@@ -1,0 +1,24 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.8.3)  4 AUG 2020 00:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Thesis_Info.tex
+(./Thesis_Info.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 11 language(s) loaded.
+)
+! Emergency stop.
+<*> Thesis_Info.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 24 strings out of 494906
+ 226 string characters out of 6175899
+ 54217 words of memory out of 5000000
+ 3986 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 7i,0n,6p,93b,8s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

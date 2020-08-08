@@ -1,0 +1,1380 @@
+\ifglsentryexists{en:مقابله‌ای}{}%
+{%
+\gls@defglossaryentry{en:مقابله‌ای}%
+{%
+name={Adversarial},%
+sort={Adversarial},%
+type={e2p-terms},%
+first={Adversarial},%
+firstplural={Adversarials},%
+text={Adversarial},%
+plural={Adversarials},%
+description={مقابله‌ای},%
+descriptionplural={مقابله‌ای},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:مقابله‌ای}{}%
+{%
+\gls@defglossaryentry{fa:مقابله‌ای}%
+{%
+name={مقابله‌ای},%
+sort={مقابله‌ای},%
+type={p2e-terms},%
+first={مقابله‌ای},%
+firstplural={مقابله‌ای‌ها},%
+text={مقابله‌ای},%
+plural={مقابله‌ای‌ها},%
+description={Adversarial},%
+descriptionplural={Adversarial},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:دسته‌ای}{}%
+{%
+\gls@defglossaryentry{en:دسته‌ای}%
+{%
+name={Categorical},%
+sort={Categorical},%
+type={e2p-terms},%
+first={Categorical},%
+firstplural={Categoricals},%
+text={Categorical},%
+plural={Categoricals},%
+description={دسته‌ای},%
+descriptionplural={دسته‌ای},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:دسته‌ای}{}%
+{%
+\gls@defglossaryentry{fa:دسته‌ای}%
+{%
+name={دسته‌ای},%
+sort={دسته‌ای},%
+type={p2e-terms},%
+first={دسته‌ای},%
+firstplural={دسته‌ای‌ها},%
+text={دسته‌ای},%
+plural={دسته‌ای‌ها},%
+description={Categorical},%
+descriptionplural={Categorical},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:یک-فعال}{}%
+{%
+\gls@defglossaryentry{en:یک-فعال}%
+{%
+name={One-hot},%
+sort={One-hot},%
+type={e2p-terms},%
+first={One-hot},%
+firstplural={One-hots},%
+text={One-hot},%
+plural={One-hots},%
+description={یک-فعال},%
+descriptionplural={یک-فعال},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:یک-فعال}{}%
+{%
+\gls@defglossaryentry{fa:یک-فعال}%
+{%
+name={یک-فعال},%
+sort={یک-فعال},%
+type={p2e-terms},%
+first={یک-فعال},%
+firstplural={یک-فعال‌ها},%
+text={یک-فعال},%
+plural={یک-فعال‌ها},%
+description={One-hot},%
+descriptionplural={One-hot},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:گشت‌زنی تصادفی}{}%
+{%
+\gls@defglossaryentry{en:گشت‌زنی تصادفی}%
+{%
+name={Random Walk},%
+sort={Random Walk},%
+type={e2p-terms},%
+first={Random Walk},%
+firstplural={Random Walks},%
+text={Random Walk},%
+plural={Random Walks},%
+description={گشت‌زنی تصادفی},%
+descriptionplural={گشت‌زنی تصادفی},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:گشت‌زنی تصادفی}{}%
+{%
+\gls@defglossaryentry{fa:گشت‌زنی تصادفی}%
+{%
+name={گشت‌زنی تصادفی},%
+sort={گشت‌زنی تصادفی},%
+type={p2e-terms},%
+first={گشت‌زنی تصادفی},%
+firstplural={گشت‌زنی تصادفی‌ها},%
+text={گشت‌زنی تصادفی},%
+plural={گشت‌زنی تصادفی‌ها},%
+description={Random Walk},%
+descriptionplural={Random Walk},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:گراف دانش}{}%
+{%
+\gls@defglossaryentry{en:گراف دانش}%
+{%
+name={Knowledge Graph},%
+sort={Knowledge Graph},%
+type={e2p-terms},%
+first={Knowledge Graph},%
+firstplural={Knowledge Graphs},%
+text={Knowledge Graph},%
+plural={Knowledge Graphs},%
+description={گراف دانش},%
+descriptionplural={گراف دانش},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:گراف دانش}{}%
+{%
+\gls@defglossaryentry{fa:گراف دانش}%
+{%
+name={گراف دانش},%
+sort={گراف دانش},%
+type={p2e-terms},%
+first={گراف دانش},%
+firstplural={گراف دانش‌ها},%
+text={گراف دانش},%
+plural={گراف دانش‌ها},%
+description={Knowledge Graph},%
+descriptionplural={Knowledge Graph},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:شبکه‌های مولد مقابله‌ای}{}%
+{%
+\gls@defglossaryentry{en:شبکه‌های مولد مقابله‌ای}%
+{%
+name={Generative Adversarial Networks},%
+sort={Generative Adversarial Networks},%
+type={e2p-terms},%
+first={Generative Adversarial Networks},%
+firstplural={Generative Adversarial Networkss},%
+text={Generative Adversarial Networks},%
+plural={Generative Adversarial Networkss},%
+description={شبکه‌های مولد مقابله‌ای},%
+descriptionplural={شبکه‌های مولد مقابله‌ای},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:شبکه‌های مولد مقابله‌ای}{}%
+{%
+\gls@defglossaryentry{fa:شبکه‌های مولد مقابله‌ای}%
+{%
+name={شبکه‌های مولد مقابله‌ای},%
+sort={شبکه‌های مولد مقابله‌ای},%
+type={p2e-terms},%
+first={شبکه‌های مولد مقابله‌ای},%
+firstplural={شبکه‌های مولد مقابله‌ای‌ها},%
+text={شبکه‌های مولد مقابله‌ای},%
+plural={شبکه‌های مولد مقابله‌ای‌ها},%
+description={Generative Adversarial Networks},%
+descriptionplural={Generative Adversarial Networks},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:مولد}{}%
+{%
+\gls@defglossaryentry{en:مولد}%
+{%
+name={Generative},%
+sort={Generative},%
+type={e2p-terms},%
+first={Generative},%
+firstplural={Generatives},%
+text={Generative},%
+plural={Generatives},%
+description={مولد},%
+descriptionplural={مولد},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:مولد}{}%
+{%
+\gls@defglossaryentry{fa:مولد}%
+{%
+name={مولد},%
+sort={مولد},%
+type={p2e-terms},%
+first={مولد},%
+firstplural={مولد‌ها},%
+text={مولد},%
+plural={مولد‌ها},%
+description={Generative},%
+descriptionplural={Generative},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:تمیزدهنده}{}%
+{%
+\gls@defglossaryentry{en:تمیزدهنده}%
+{%
+name={Discriminator},%
+sort={Discriminator},%
+type={e2p-terms},%
+first={Discriminator},%
+firstplural={Discriminators},%
+text={Discriminator},%
+plural={Discriminators},%
+description={تمیزدهنده},%
+descriptionplural={تمیزدهنده},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:تمیزدهنده}{}%
+{%
+\gls@defglossaryentry{fa:تمیزدهنده}%
+{%
+name={تمیزدهنده},%
+sort={تمیزدهنده},%
+type={p2e-terms},%
+first={تمیزدهنده},%
+firstplural={تمیزدهنده‌ها},%
+text={تمیزدهنده},%
+plural={تمیزدهنده‌ها},%
+description={Discriminator},%
+descriptionplural={Discriminator},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:دسته‌بند}{}%
+{%
+\gls@defglossaryentry{en:دسته‌بند}%
+{%
+name={Classifier},%
+sort={Classifier},%
+type={e2p-terms},%
+first={Classifier},%
+firstplural={Classifiers},%
+text={Classifier},%
+plural={Classifiers},%
+description={دسته‌بند},%
+descriptionplural={دسته‌بند},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:دسته‌بند}{}%
+{%
+\gls@defglossaryentry{fa:دسته‌بند}%
+{%
+name={دسته‌بند},%
+sort={دسته‌بند},%
+type={p2e-terms},%
+first={دسته‌بند},%
+firstplural={دسته‌بند‌ها},%
+text={دسته‌بند},%
+plural={دسته‌بند‌ها},%
+description={Classifier},%
+descriptionplural={Classifier},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:مرز دانش}{}%
+{%
+\gls@defglossaryentry{en:مرز دانش}%
+{%
+name={State-of-the-Art},%
+sort={State-of-the-Art},%
+type={e2p-terms},%
+first={State-of-the-Art},%
+firstplural={State-of-the-Arts},%
+text={State-of-the-Art},%
+plural={State-of-the-Arts},%
+description={مرز دانش},%
+descriptionplural={مرز دانش},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:مرز دانش}{}%
+{%
+\gls@defglossaryentry{fa:مرز دانش}%
+{%
+name={مرز دانش},%
+sort={مرز دانش},%
+type={p2e-terms},%
+first={مرز دانش},%
+firstplural={مرز دانش‌ها},%
+text={مرز دانش},%
+plural={مرز دانش‌ها},%
+description={State-of-the-Art},%
+descriptionplural={State-of-the-Art},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:نهان}{}%
+{%
+\gls@defglossaryentry{en:نهان}%
+{%
+name={Latent},%
+sort={Latent},%
+type={e2p-terms},%
+first={Latent},%
+firstplural={Latents},%
+text={Latent},%
+plural={Latents},%
+description={نهان},%
+descriptionplural={نهان},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:نهان}{}%
+{%
+\gls@defglossaryentry{fa:نهان}%
+{%
+name={نهان},%
+sort={نهان},%
+type={p2e-terms},%
+first={نهان},%
+firstplural={نهان‌ها},%
+text={نهان},%
+plural={نهان‌ها},%
+description={Latent},%
+descriptionplural={Latent},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:سبک}{}%
+{%
+\gls@defglossaryentry{en:سبک}%
+{%
+name={Style},%
+sort={Style},%
+type={e2p-terms},%
+first={Style},%
+firstplural={Styles},%
+text={Style},%
+plural={Styles},%
+description={سبک},%
+descriptionplural={سبک},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:سبک}{}%
+{%
+\gls@defglossaryentry{fa:سبک}%
+{%
+name={سبک},%
+sort={سبک},%
+type={p2e-terms},%
+first={سبک},%
+firstplural={سبک‌ها},%
+text={سبک},%
+plural={سبک‌ها},%
+description={Style},%
+descriptionplural={Style},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:تابع هزینه‌}{}%
+{%
+\gls@defglossaryentry{en:تابع هزینه‌}%
+{%
+name={Cost Function},%
+sort={Cost Function},%
+type={e2p-terms},%
+first={Cost Function},%
+firstplural={Cost Functions},%
+text={Cost Function},%
+plural={Cost Functions},%
+description={تابع هزینه‌},%
+descriptionplural={تابع هزینه‌},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:تابع هزینه‌}{}%
+{%
+\gls@defglossaryentry{fa:تابع هزینه‌}%
+{%
+name={تابع هزینه‌},%
+sort={تابع هزینه‌},%
+type={p2e-terms},%
+first={تابع هزینه‌},%
+firstplural={تابع هزینه‌‌ها},%
+text={تابع هزینه‌},%
+plural={تابع هزینه‌‌ها},%
+description={Cost Function},%
+descriptionplural={Cost Function},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:اُریبی مواجهه}{}%
+{%
+\gls@defglossaryentry{en:اُریبی مواجهه}%
+{%
+name={Exposure Bias},%
+sort={Exposure Bias},%
+type={e2p-terms},%
+first={Exposure Bias},%
+firstplural={Exposure Biass},%
+text={Exposure Bias},%
+plural={Exposure Biass},%
+description={اُریبی مواجهه},%
+descriptionplural={اُریبی مواجهه},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:اُریبی مواجهه}{}%
+{%
+\gls@defglossaryentry{fa:اُریبی مواجهه}%
+{%
+name={اُریبی مواجهه},%
+sort={اُریبی مواجهه},%
+type={p2e-terms},%
+first={اُریبی مواجهه},%
+firstplural={اُریبی مواجهه‌ها},%
+text={اُریبی مواجهه},%
+plural={اُریبی مواجهه‌ها},%
+description={Exposure Bias},%
+descriptionplural={Exposure Bias},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:آموزش}{}%
+{%
+\gls@defglossaryentry{en:آموزش}%
+{%
+name={Train},%
+sort={Train},%
+type={e2p-terms},%
+first={Train},%
+firstplural={Trains},%
+text={Train},%
+plural={Trains},%
+description={آموزش},%
+descriptionplural={آموزش},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:آموزش}{}%
+{%
+\gls@defglossaryentry{fa:آموزش}%
+{%
+name={آموزش},%
+sort={آموزش},%
+type={p2e-terms},%
+first={آموزش},%
+firstplural={آموزش‌ها},%
+text={آموزش},%
+plural={آموزش‌ها},%
+description={Train},%
+descriptionplural={Train},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:آزمون}{}%
+{%
+\gls@defglossaryentry{en:آزمون}%
+{%
+name={Test},%
+sort={Test},%
+type={e2p-terms},%
+first={Test},%
+firstplural={Tests},%
+text={Test},%
+plural={Tests},%
+description={آزمون},%
+descriptionplural={آزمون},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:آزمون}{}%
+{%
+\gls@defglossaryentry{fa:آزمون}%
+{%
+name={آزمون},%
+sort={آزمون},%
+type={p2e-terms},%
+first={آزمون},%
+firstplural={آزمون‌ها},%
+text={آزمون},%
+plural={آزمون‌ها},%
+description={Test},%
+descriptionplural={Test},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:تابع هدف}{}%
+{%
+\gls@defglossaryentry{en:تابع هدف}%
+{%
+name={Objective Function},%
+sort={Objective Function},%
+type={e2p-terms},%
+first={Objective Function},%
+firstplural={Objective Functions},%
+text={Objective Function},%
+plural={Objective Functions},%
+description={تابع هدف},%
+descriptionplural={تابع هدف},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:تابع هدف}{}%
+{%
+\gls@defglossaryentry{fa:تابع هدف}%
+{%
+name={تابع هدف},%
+sort={تابع هدف},%
+type={p2e-terms},%
+first={تابع هدف},%
+firstplural={تابع هدف‌ها},%
+text={تابع هدف},%
+plural={تابع هدف‌ها},%
+description={Objective Function},%
+descriptionplural={Objective Function},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:بیشینه درست‌نمایی}{}%
+{%
+\gls@defglossaryentry{en:بیشینه درست‌نمایی}%
+{%
+name={Maximum Likelihood},%
+sort={Maximum Likelihood},%
+type={e2p-terms},%
+first={Maximum Likelihood},%
+firstplural={Maximum Likelihoods},%
+text={Maximum Likelihood},%
+plural={Maximum Likelihoods},%
+description={بیشینه درست‌نمایی},%
+descriptionplural={بیشینه درست‌نمایی},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:بیشینه درست‌نمایی}{}%
+{%
+\gls@defglossaryentry{fa:بیشینه درست‌نمایی}%
+{%
+name={بیشینه درست‌نمایی},%
+sort={بیشینه درست‌نمایی},%
+type={p2e-terms},%
+first={بیشینه درست‌نمایی},%
+firstplural={بیشینه درست‌نمایی‌ها},%
+text={بیشینه درست‌نمایی},%
+plural={بیشینه درست‌نمایی‌ها},%
+description={Maximum Likelihood},%
+descriptionplural={Maximum Likelihood},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:میانگین-جستجوگری}{}%
+{%
+\gls@defglossaryentry{en:میانگین-جستجوگری}%
+{%
+name={Mean-Seeking},%
+sort={Mean-Seeking},%
+type={e2p-terms},%
+first={Mean-Seeking},%
+firstplural={Mean-Seekings},%
+text={Mean-Seeking},%
+plural={Mean-Seekings},%
+description={میانگین-جستجوگری},%
+descriptionplural={میانگین-جستجوگری},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:میانگین-جستجوگری}{}%
+{%
+\gls@defglossaryentry{fa:میانگین-جستجوگری}%
+{%
+name={میانگین-جستجوگری},%
+sort={میانگین-جستجوگری},%
+type={p2e-terms},%
+first={میانگین-جستجوگری},%
+firstplural={میانگین-جستجوگری‌ها},%
+text={میانگین-جستجوگری},%
+plural={میانگین-جستجوگری‌ها},%
+description={Mean-Seeking},%
+descriptionplural={Mean-Seeking},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:ناهماهنگی}{}%
+{%
+\gls@defglossaryentry{en:ناهماهنگی}%
+{%
+name={Inconsistency},%
+sort={Inconsistency},%
+type={e2p-terms},%
+first={Inconsistency},%
+firstplural={Inconsistencys},%
+text={Inconsistency},%
+plural={Inconsistencys},%
+description={ناهماهنگی},%
+descriptionplural={ناهماهنگی},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:ناهماهنگی}{}%
+{%
+\gls@defglossaryentry{fa:ناهماهنگی}%
+{%
+name={ناهماهنگی},%
+sort={ناهماهنگی},%
+type={p2e-terms},%
+first={ناهماهنگی},%
+firstplural={ناهماهنگی‌ها},%
+text={ناهماهنگی},%
+plural={ناهماهنگی‌ها},%
+description={Inconsistency},%
+descriptionplural={Inconsistency},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:خود رمزگذار وردشی}{}%
+{%
+\gls@defglossaryentry{en:خود رمزگذار وردشی}%
+{%
+name={Variational Autoencoder},%
+sort={Variational Autoencoder},%
+type={e2p-terms},%
+first={Variational Autoencoder},%
+firstplural={Variational Autoencoders},%
+text={Variational Autoencoder},%
+plural={Variational Autoencoders},%
+description={خود رمزگذار وردشی},%
+descriptionplural={خود رمزگذار وردشی},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:خود رمزگذار وردشی}{}%
+{%
+\gls@defglossaryentry{fa:خود رمزگذار وردشی}%
+{%
+name={خود رمزگذار وردشی},%
+sort={خود رمزگذار وردشی},%
+type={p2e-terms},%
+first={خود رمزگذار وردشی},%
+firstplural={خود رمزگذار وردشی‌ها},%
+text={خود رمزگذار وردشی},%
+plural={خود رمزگذار وردشی‌ها},%
+description={Variational Autoencoder},%
+descriptionplural={Variational Autoencoder},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:تنظیم مجدد}{}%
+{%
+\gls@defglossaryentry{en:تنظیم مجدد}%
+{%
+name={Reparametrization},%
+sort={Reparametrization},%
+type={e2p-terms},%
+first={Reparametrization},%
+firstplural={Reparametrizations},%
+text={Reparametrization},%
+plural={Reparametrizations},%
+description={تنظیم مجدد},%
+descriptionplural={تنظیم مجدد},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:تنظیم مجدد}{}%
+{%
+\gls@defglossaryentry{fa:تنظیم مجدد}%
+{%
+name={تنظیم مجدد},%
+sort={تنظیم مجدد},%
+type={p2e-terms},%
+first={تنظیم مجدد},%
+firstplural={تنظیم مجدد‌ها},%
+text={تنظیم مجدد},%
+plural={تنظیم مجدد‌ها},%
+description={Reparametrization},%
+descriptionplural={Reparametrization},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{en:چسبیدگی به قله}{}%
+{%
+\gls@defglossaryentry{en:چسبیدگی به قله}%
+{%
+name={Mode Collapsing},%
+sort={Mode Collapsing},%
+type={e2p-terms},%
+first={Mode Collapsing},%
+firstplural={Mode Collapsings},%
+text={Mode Collapsing},%
+plural={Mode Collapsings},%
+description={چسبیدگی به قله},%
+descriptionplural={چسبیدگی به قله},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fa:چسبیدگی به قله}{}%
+{%
+\gls@defglossaryentry{fa:چسبیدگی به قله}%
+{%
+name={چسبیدگی به قله},%
+sort={چسبیدگی به قله},%
+type={p2e-terms},%
+first={چسبیدگی به قله},%
+firstplural={چسبیدگی به قله‌ها},%
+text={چسبیدگی به قله},%
+plural={چسبیدگی به قله‌ها},%
+description={Mode Collapsing},%
+descriptionplural={Mode Collapsing},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
