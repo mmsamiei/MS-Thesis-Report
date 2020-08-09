@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.8.3)  9 AUG 2020 01:53
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.8.9)  9 AUG 2020 21:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Thesis.tex
 (./Thesis.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 11 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
@@ -2665,7 +2665,7 @@ Overfull \hbox (35.99997pt too wide) in paragraph at lines 36--57
 
 ] (./Thesis_Abstract_fa.tex
 LaTeX Font Info:    Font shape `TU/XBYas(2)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 22.
+(Font)              scaled to size 12.0pt on input line 24.
 ) [4
 
 ] (./Thesis.toc [1
@@ -3033,12 +3033,12 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 53092 strings out of 494906
- 1167617 string characters out of 6175899
- 1452574 words of memory out of 5000000
- 55584 multiletter control sequences out of 15000+600000
+ 53092 strings out of 493007
+ 1167617 string characters out of 6136720
+ 1457358 words of memory out of 5000000
+ 55693 multiletter control sequences out of 15000+600000
  545857 words of font info for 144 fonts, out of 8000000 for 9000
- 36 hyphenation exceptions out of 8191
+ 1348 hyphenation exceptions out of 8191
  64i,17n,100p,10446b,561s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Thesis.pdf (32 pages).
