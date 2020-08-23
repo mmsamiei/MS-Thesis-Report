@@ -1,138 +1,47 @@
-\chapter{نمودار‌های آموزش شبکه}\label{app:figs}
-به عنوان نمونه، بعضی از مهم‌ترین نمودار‌های آموزش مدل‌های پیشنهادی ۱ و ۲ با دادگان \amazon{} در ذیل آمده است. لازم به ذکر است در تمامی نمودار‌ها، محور‌ افقی
-\trans{تعداد دفعات دیدن کل داده‌ها}{Epoch}
-است.
-\begin{figure}[h]
-	\centering
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_37_34__enc_cond_cls_loss.png}
-		\caption{}
-		\label{fig:chap4:amazon_enc_cls}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_37_34__latent_classifier_cond_cls_loss.png}
-		\caption{}
-		\label{fig:chap4:amazon_latent_cls}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_37_34__jaccard5-random.png}
-		\caption{}
-		\label{fig:chap4:amazon_jaccard}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_37_33__mmd.png}
-		\caption{}
-		\label{fig:chap4:amazon_mmd}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_37_34__nll.png}
-		\caption{}
-		\label{fig:chap4:amazon_nll}
-	\end{subfigure}
-	\caption
-	[
-		مدل پیشنهادی ۱.
-		نمودار‌های آموزش \wae{} بر روی دادگان \amazon{}.
-	]
-	{
-		مدل پیشنهادی ۱.
-		نمودار‌های آموزش \wae{} بر روی دادگان \amazon{}.
-		هزینه دسته‌بندی بردار‌های نهان تولید شده توسط \encoder{}
-		(\subref{fig:chap4:amazon_enc_cls})؛
-		هزینه دسته‌بندی \classifier{} در فضای نهان
-		(\subref{fig:chap4:amazon_latent_cls})؛
-		کیفیت و تنوع جملات تولیدی با توجه به معیار \jaccard{}
-		(\subref{fig:chap4:amazon_jaccard})؛
-		فاصله توزیع \marginal{} \encoder{} و \priordist{} با توجه به معیار \mmd{}
-		(\subref{fig:chap4:amazon_mmd})؛
-		خطای بازسازی جملات
-		(\subref{fig:chap4:amazon_nll}).
-	}
-	\label{fig:chap4:amazon_cond}
-\end{figure}
+\chapter{نتایج گپ‌زن}\label{app:figs}
+به عنوان نمونه، بعضی از مکالمات انجام شده با مدل طراحی شده در این پژوهش آورده شده است. در تمامی این مدل‌ها از مدل شش لایه با اندازه نهان ۲۵۶ ارائه شده در بخش 
+\ref{chap5:lin_eval}
+به عنوان مدل انتخاب دانش استفاده شده است.
+
+\begin{table}[h]
+	\caption{آزمودن مدل بارت از پیش آموزش یافته روی سوالات رایج}
+	\label{table:result_general_qa}
+	\begin{tabular}{ll}
+		\hline
+		\multicolumn{2}{c}{مدل بارت پیش‌آموزش یافته}                                                            \\ \hline
+		Human & \lr{is sky blue or black?}                                                                           \\
+		Bot   & \lr{I'm sure the daytime sky is blue because air molecules scatter shorter wavelengths of sunlight.} \\
+		Human & \lr{does a cat have a wing?}                                                                         \\
+		Bot   & \lr{That is great to hear, i wish you could see my cat.}                                             \\
+		Human & \lr{how many legs does a spider have?}                                                               \\
+		Bot   & \lr{spiders have eight legs                       }                                               \\
+		Human & \lr{what is the color of a yellow car?}                                                              \\
+		Bot   & \lr{Yellow cars are usually yellow.                            }                                     \\
+		Human & \lr{how much is two plus two?}                                                                       \\
+		Bot   & \lr{I don't know, but two plus two is a lot of money}                                                \\
+		Human & \lr{bye!}                                                                                            \\
+		Bot   & \lr{I will miss you                    }                                                            
+	\end{tabular}
+\end{table}
 
 
-\begin{figure}[h]
-	\centering
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_41_02__jaccard5-random.png}
-		\caption{}
-		\label{fig:chap4:amazon_flow_jaccard}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_41_01__prior-flow-nll.png}
-		\caption{}
-		\label{fig:chap4:amazon_flow_nll}
-	\end{subfigure}
-	\caption
-	[
-		مدل پیشنهادی ۱. نمودار‌های آموزش مولد شرطی بر روی دادگان \amazon{}.
-	]
-	{
-		مدل پیشنهادی ۱. نمودار‌های آموزش مولد شرطی بر روی دادگان \amazon{}.
-		کیفیت و تنوع جملات تولیدی تولید شده توسط مدل مولد شرطی با توجه به معیار \jaccard{}
-		(\subref{fig:chap4:amazon_flow_jaccard})؛
-		تابع هزینه آموزش مولد شرطی
-		(\subref{fig:chap4:amazon_flow_nll}).
-	}
-	\label{fig:chap4:amazon_flow}
-\end{figure}
-
-\begin{figure}[h]
-	\centering
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_42_11__jaccard5-random.png}
-		\caption{}
-		\label{fig:chap4:amazon_disent_jaccard}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_42_11__nll.png}
-		\caption{}
-		\label{fig:chap4:amazon_disent_nll}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__12_10_34__decoder_condition_validity_cond_cls_loss.png}
-		\caption{}
-		\label{fig:chap4:amazon_disent_xcls}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_44_04__enc_indep_from_c_entropy.png}
-		\caption{}
-		\label{fig:chap4:amazon_disent_indp}
-	\end{subfigure}
-	\begin{subfigure}{0.3\textheight}
-		\centering
-		\includegraphics[width=1.\textwidth]{images/figs2/2020_01_15__11_44_04__latent_classifier_cond_cls_loss.png}
-		\caption{}
-		\label{fig:chap4:amazon_disent_latent_cls}
-	\end{subfigure}
-	\caption
-    [
-    		مدل پیشنهادی ۲. نمودار‌های آموزش مدل بر روی دادگان \amazon{}.
-    ]
-    {
-		مدل پیشنهادی ۲. نمودار‌های آموزش مدل بر روی دادگان \amazon{}.
-		کیفیت و تنوع جملات تولیدی تولید شده توسط \decoder{} شرطی با توجه به معیار \jaccard{}
-		(\subref{fig:chap4:amazon_disent_jaccard})؛
-		خطای بازسازی
-		(\subref{fig:chap4:amazon_disent_nll})؛
-		تابع هزینه دسته‌بندی جملات
-		(\subref{fig:chap4:amazon_disent_xcls})؛
-		استقلال فضای نهان از شرط (آنتروپی \classifier{})
-		(\subref{fig:chap4:amazon_disent_indp})؛
-		استقلال فضای نهان از شرط (هزینه دسته‌بندی \classifier{} در فضای نهان)
-		(\subref{fig:chap4:amazon_disent_latent_cls}).
-	}
-	\label{fig:chap4:amazon_disent}
-\end{figure}
+\begin{table}[h]
+	\caption{آزمودن مدل بارت از پیش آموزش یافته روی سوالات چالش‌برانگیز}
+	\label{table:result_general_ph}
+	\begin{tabularx}{\linewidth}{LL}
+		\hline
+		\multicolumn{2}{c}{مدل بارت پیش‌آموزش یافته}                                                                                                                                                                                                                                                          \\ \hline
+		Human & \lr{what is the purpose of life?}                                                                                                                                                             \\
+		Bot   & \lr{I am not sure what the purpose of existence is, but I think it may be to find a peaceful, loving, and happy life. Do you have any other questions?}                                                                                                                                            \\
+		Human & \lr{what is the purpose of living?}                                                                                                                                                                                                                                                          \\
+		Bot   & \lr{exerting one's utmost power, efforts, endeavors, or ability in contending with an object of disapprobation is the purpose of living!}                                                                                                                                                          \\
+		Human & \lr{what is the purpose of existence?}                                                                                                                                                                                                                                                             \\
+		Bot   & \lr{Yeah, it depends on your interpretation  The exact definition of existence is one of the most important and fundamental topics of ontology, the philosophical study of the nature of being, existence, or reality in general, as well as of the basic categories of being and their relations} \\
+		Human & \lr{where are you now?}                                                                                                                                                                                                                                                                           \\
+		Bot   & \lr{I am in the middle of a job interview and I am not happy. }                                                                                                                                                                                                                                    \\
+		Human & \lr{what is the purpos of dying?}                                                                                                                                                                                                                            \\
+		Bot   & \lr{The purpose of dying is to serve my country }                                                                                                                                                                                                                                                  \\
+		Human & w\lr{hat is the purpose of emotions?        }                                                                                                                                                                                                                                                \\
+		Bot   & \lr{Emotions are biological states associated with the nervous system}                                                                                                                                                                                                                            
+	\end{tabularx}
+\end{table}
