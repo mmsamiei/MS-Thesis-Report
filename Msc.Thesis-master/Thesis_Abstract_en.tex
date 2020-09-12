@@ -4,15 +4,12 @@
 \begin{latin}
 \centerline{\textbf{\large{Abstract}}}
 \begin{quote}
-    Creating an intelligent machine being able to have a dialogue with a human is an old desire of human beings.
-    \\
-    In recent years, thanks to the rapid progress of Deep Learning and also the availability of massive training datasets, the Dialogue System problem was in researchers' attention and had great advances.
-    \\
-    Despite these advances, the Knowledge-Grounded Dialogue Systems have weaknesses in incorporating given knowledge in their conversations and, as a result, they are far from the real world and open-domain use-cases. The lack of knowledge-grounded dialogues in training datasets and also the lack of knowledge injection into the model architecture, are some examples of this weakness.
+    Despite significant advances in dialog systems, data-driven dialog systems are often unable to have content-driven conversations and present real-world knowledge in the context which is due to the lack of knowledge-based conversations in the research datasets and the lack of external knowledge in their architecture. As a result, they are far from the real world and open-domain use-cases.
     \\
     The goal of this research is to introduce a dialogue system based on external knowledge and facts using Deep Learning that the external knowledge can be updated and, the model will adapt itself and take them into account to have a rich conversation. It must be noted that external knowledge is assumed as a collection of text documents.
     \\
-    Due to the great advances and performance of pre-trained models in various NLP tasks in recent years, incorporating the power of pre-trained models and Transfer Learning were a general approach in this work. In the end, several tests were accomplished and showed superior performance of the proposed model against baselines.
+  Due to the great advances and performance of pre-trained models in various NLP tasks in recent years, incorporating the power of pre-trained models and Transfer Learning were a general approach in this work. In the end, several tests were accomplished and showed superior performance of the proposed model against baselines. So, with setting up and fine-tuning the well-known pre-trained networks such as Bert and Bart, the recall score in the knowledge selection problem and the F1 score in answer generation problem have been improved from 23.7 to 76.52 and from 32.2 to 41.3 respectively.
+Also in this study, a new criterion has been taken into account called "BERTScore" that measures the quality of responses produced by the chatbot; it is a good alternative to other criteria such as F1, as it considers the semantic representations.
 \vskip .5cm
 \textbf{Keywords: Deep Learning, Dialog System, Open-Domain Chatbot, Knowledge-Grounded Chatbot, Pretrained Models}
 \end{quote}
